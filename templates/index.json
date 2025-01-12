@@ -30,7 +30,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "bestseller",
+            "collection": "nos-meilleures-ventes",
             "label": "",
             "button_text": "",
             "button_url": ""
