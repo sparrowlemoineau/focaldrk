@@ -60,10 +60,11 @@
         "item-2": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/stone_collec.png",
             "tab_label": "Text 2",
-            "subheading": "MONCLER | CANADA GOOSE",
-            "title": "DES DOUDOUNES 1:1 DEPUIS L'USINE !",
-            "content": "<p>Nous sommes fiers de vous proposer une sélection exclusive de produits <strong>Moncler et Canada Goose </strong>directement de l'usine. </p><p>Notre modèle commercial repose sur des opérations de déstockage, ce qui nous permet de vous offrir des prix avantageux sur des articles de qualité supérieure. </p><p>Toutefois, veuillez noter que les stocks sont limités et que ces offres ne dureront pas éternellement</p>",
+            "subheading": "",
+            "title": "STONE ISLAND HAUT DE GAMME 1:1 – DIRECTEMENT DE L'USINE",
+            "content": "<p><strong>Mais attention : les stocks sont ultra-limités !</strong> Ces offres exceptionnelles ne dureront pas. Agissez vite pour ajouter une touche d'exclusivité à votre dressing.</p><p>Ne laissez pas passer cette opportunité – faites votre choix avant qu'il ne soit trop tard ! 🔥</p>",
             "button_text": "",
             "button_link": ""
           }
@@ -151,7 +152,7 @@
         "buy-buttons"
       ],
       "settings": {
-        "product": "monogram-gilet",
+        "product": "brushed-organic-cotton-sweatshirt-musk-green",
         "subheading": "",
         "title": "en tendance",
         "show_vendor": true,
@@ -176,7 +177,7 @@
         "collection_gnPiWr": {
           "type": "collection",
           "settings": {
-            "collection": "mc",
+            "collection": "stone-island-outlet",
             "label": "Moncler",
             "button_text": "",
             "button_url": ""
