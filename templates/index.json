@@ -178,34 +178,14 @@
           "type": "collection",
           "settings": {
             "collection": "stone-island-outlet",
-            "label": "Moncler",
-            "button_text": "",
-            "button_url": ""
-          }
-        },
-        "collection_BYmHV9": {
-          "type": "collection",
-          "settings": {
-            "collection": "goose",
-            "label": "GOOSE",
-            "button_text": "",
-            "button_url": ""
-          }
-        },
-        "collection_Nit6mN": {
-          "type": "collection",
-          "settings": {
-            "collection": "accessoires",
-            "label": "",
+            "label": "Stone",
             "button_text": "",
             "button_url": ""
           }
         }
       },
       "block_order": [
-        "collection_gnPiWr",
-        "collection_BYmHV9",
-        "collection_Nit6mN"
+        "collection_gnPiWr"
       ],
       "settings": {
         "subheading": "",
