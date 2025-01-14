@@ -9,21 +9,6 @@
  */
 {
   "sections": {
-    "video_zDQqgV": {
-      "type": "video",
-      "settings": {
-        "subheading": "",
-        "title": "",
-        "video": "shopify://files/videos/header stone drk.mp4",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "background_type": "full_width",
-        "video_size": "auto",
-        "autoplay": true,
-        "show_video_controls": false,
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
@@ -64,7 +49,7 @@
             "tab_label": "Text 2",
             "subheading": "",
             "title": "STONE ISLAND HAUT DE GAMME 1:1 – DIRECTEMENT DE L'USINE",
-            "content": "<p><strong>Mais attention : les stocks sont ultra-limités !</strong> Ces offres exceptionnelles ne dureront pas. Agissez vite pour ajouter une touche d'exclusivité à votre dressing.</p><p>Ne laissez pas passer cette opportunité – faites votre choix avant qu'il ne soit trop tard ! 🔥</p>",
+            "content": "<p><strong>Mais attention : les stocks sont ultra-limités !</strong> Ces offres exceptionnelles ne dureront pas. Agissez vite pour ajouter une touche d'exclusivité à votre dressing.</p><p>Ne laissez pas passer cette opportunité – faites votre choix avant qu'il ne soit trop tard ! 🔥</p>",
             "button_text": "",
             "button_link": ""
           }
@@ -290,7 +275,6 @@
     }
   },
   "order": [
-    "video_zDQqgV",
     "featured-collections",
     "image-with-text",
     "testimonials",
