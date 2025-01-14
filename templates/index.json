@@ -9,6 +9,21 @@
  */
 {
   "sections": {
+    "video_YPaDRC": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video": "shopify://files/videos/header stone drk.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": true,
+        "show_video_controls": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
@@ -45,7 +60,6 @@
         "item-2": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/stone_collec.png",
             "tab_label": "Text 2",
             "subheading": "",
             "title": "STONE ISLAND HAUT DE GAMME 1:1 – DIRECTEMENT DE L'USINE",
@@ -162,8 +176,6 @@
         "look_N7EV8U": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/9979e46a61ae83162522a5c1781e7bc2.jpg",
-            "mobile_image": "shopify://shop_images/9979e46a61ae83162522a5c1781e7bc2.jpg",
             "dot_type": "normal",
             "product_1": "wool-beanie-hat-lead-grey-1",
             "product_1_horizontal_position": 34,
@@ -275,6 +287,7 @@
     }
   },
   "order": [
+    "video_YPaDRC",
     "featured-collections",
     "image-with-text",
     "testimonials",
