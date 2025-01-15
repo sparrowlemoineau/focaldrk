@@ -228,18 +228,18 @@
     "featured_collections_qPQBi3": {
       "type": "featured-collections",
       "blocks": {
-        "collection_gnPiWr": {
+        "collection_tgVCEz": {
           "type": "collection",
           "settings": {
-            "collection": "nos-meilleures-ventes",
-            "label": "Stone",
+            "collection": "nos-best-sellers",
+            "label": "",
             "button_text": "",
             "button_url": ""
           }
         }
       },
       "block_order": [
-        "collection_gnPiWr"
+        "collection_tgVCEz"
       ],
       "settings": {
         "subheading": "",
