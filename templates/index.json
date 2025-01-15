@@ -171,10 +171,10 @@
         "liquid_Cq99Uj"
       ],
       "settings": {
-        "product": "sweat-shirt-a-col-rond",
+        "product": "the-verona-jacket",
         "subheading": "",
         "title": "en tendance",
-        "show_vendor": true,
+        "show_vendor": false,
         "show_sku": false,
         "show_taxes_included": false,
         "show_product_rating": false,
