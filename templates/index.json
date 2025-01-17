@@ -79,6 +79,7 @@
         "item-2": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/DROPDOWN_NAVIGATION_NEW.jpg",
             "tab_label": "Text 2",
             "subheading": "",
             "title": "Nos vetements HAUT DE GAMME",
