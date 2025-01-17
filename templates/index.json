@@ -79,7 +79,6 @@
         "item-2": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/DROPDOWN_NAVIGATION_NEW.jpg",
             "tab_label": "Text 2",
             "subheading": "",
             "title": "Nos vetements HAUT DE GAMME",
@@ -196,8 +195,6 @@
         "look_N7EV8U": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/image00105_c253bb90-7975-4598-926a-aeada5f6291f.webp",
-            "mobile_image": "shopify://shop_images/image00105_c253bb90-7975-4598-926a-aeada5f6291f.webp",
             "dot_type": "normal",
             "product_1": "the-verona-jacket",
             "product_1_horizontal_position": 34,
