@@ -49,7 +49,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "nos-best-sellers",
+            "collection": "best-sellers",
             "label": "",
             "button_text": "",
             "button_url": ""
